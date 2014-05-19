@@ -1,0 +1,12 @@
+
+Content/*.dll
+Content/*.exe
+Content/*.xml
+Content/*.pdb
+ResourceArchiveBuilder/obj/
+ResourceArchiveBuilder/bin/
+TorchGame/obj/
+TorchGame/bin/
+ResourceLib/obj/
+ResourceLib/bin/
+TorchGame.suo
